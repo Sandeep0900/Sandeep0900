@@ -32,6 +32,7 @@ I strive to build impactful projects that solve real-world problems.
 ## 📫 How to Reach Me
 - **Email:** [sandeep.sharma@example.com](mailto:sandeep.sharma@example.com)
 - **LinkedIn:** [Sandeep Sharma](https://www.linkedin.com/in/sandeep-sharma0900)
+- **Instagram:** [sandeep_._20_._](https://www.instagram.com/sandeep_._20_._)
 - **GitHub:** [Sandeep0900](https://github.com/Sandeep0900)
 
 ---
