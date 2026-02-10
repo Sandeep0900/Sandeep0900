@@ -32,7 +32,7 @@ I strive to build impactful projects that solve real-world problems.
 ## 📫 How to Reach Me
 - **Email:** [sandeesharma09@gmail.com](mailto:sandeesharma09@gmail.com)
 - **LinkedIn:** [sandeep--sharma](https://www.linkedin.com/in/sandeep--sharma/)
-- **Instagram:** [sandeep_._20_._](https://www.instagram.com/sandeep_._20_._)
+- **Leadcode:** [Sandeep-Sharma](https://leetcode.com/u/Sandeep-Sharma/)
 - **GitHub:** [Sandeep0900](https://github.com/Sandeep0900)
 
 ---
