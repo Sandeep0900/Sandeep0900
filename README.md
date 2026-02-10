@@ -33,7 +33,7 @@ I strive to build impactful projects that solve real-world problems.
 - **Email:** [sandeesharma09@gmail.com](mailto:sandeesharma09@gmail.com)
 - **LinkedIn:** [sandeep--sharma](https://www.linkedin.com/in/sandeep--sharma/)
 - **LeetCode:** [Sandeep-Sharma](https://leetcode.com/u/Sandeep-Sharma/)
-- **GitHub:** [Sandeep0900](https://github.com/Sandeep0900)
+- **Profile:** [Sandeep.Ramnaval.Sharma](https://general-portfolio-sandeep.vercel.app/)
 
 ---
 
