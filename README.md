@@ -30,7 +30,7 @@ I strive to build impactful projects that solve real-world problems.
 ---
 
 ## 📫 How to Reach Me
-- **Email:** [sandeesharma09@gmail.com](mailto:sandeesharma09@gmail.com)
+- **Email:** [sandeep.ramnaval.sharma@gmail.com](mailto:sandeesharma09@gmail.com)
 - **LinkedIn:** [sandeep--sharma](https://www.linkedin.com/in/sandeep--sharma/)
 - **LeetCode:** [Sandeep-Sharma](https://leetcode.com/u/Sandeep-Sharma/)
 - **Profile:** [Sandeep.Ramnaval.Sharma](https://general-portfolio-sandeep.vercel.app/)
