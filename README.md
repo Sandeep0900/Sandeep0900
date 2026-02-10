@@ -36,10 +36,6 @@ I strive to build impactful projects that solve real-world problems.
 - **Profile:** [Sandeep.Ramnaval.Sharma](https://general-portfolio-sandeep.vercel.app/)
 
 ---
-
-## 😄 Pronouns
-- He/Him
-
 ---
 
 ## ⚡ Fun Fact
